@@ -11,4 +11,5 @@ Learned About Git today
 3. file in a repo
 4. git commands (- git clone,git add,git commit,git push,git status)
 5. Some Linux Commands
-6. 6\. Learned how to create branches and use pull requests
+6. Learned how to create branches and use pull requests
+7. learn to create branch
